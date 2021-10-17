@@ -323,4 +323,4 @@ There are a few other important flags:
 
 Now go answer the questions at the back of the chapter to learn more.
 
-现在，尝试去回头章节后的问题巩固练习。
+现在，尝试去回答章节后的问题巩固练习。
